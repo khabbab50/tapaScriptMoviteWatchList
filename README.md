@@ -46,7 +46,7 @@ step-1:
 
 go to terminal and write this command to clone source code
 
-    ```sh git clone https://github.com/rashed-mia/react-e-hatekhori-05.git```
+    ```sh git clone https://github.com/khabbab50/tapaScriptMoviteWatchList.git```
 
 step-2:
 
@@ -68,8 +68,8 @@ to run the code write
 
 ---
 
-source code: [github link]()
+source code: [github link](https://github.com/khabbab50/tapaScriptMoviteWatchList.git)
 
 ---
 
-live project: [vercel deployment link]()
+live project: [vercel deployment link](https://tapa-script-movite-watch-list.vercel.app/)
